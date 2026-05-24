@@ -54,7 +54,7 @@ ai-chatbot/
 # Installation
 
 ```bash
-git clone https://github.com/yourusername/ai-chatbot.git
+git clone https://github.com/ahmed92-18/ai-chatbot.git
 cd ai-chatbot
 ```
 
